@@ -68,7 +68,7 @@ const Hero = () => {
             </div>
             
             <div className="flex flex-col items-center p-6 bg-white/80 backdrop-blur rounded-xl shadow-lg">
-              <div className="text-4xl font-bold text-primary mb-2">-80%</div>
+              <div className="text-4xl font-bold text-primary mb-2">-60%</div>
               <div className="text-sm text-gray-600">Времени на обработку заказов</div>
             </div>
           </div>
